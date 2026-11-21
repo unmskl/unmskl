@@ -1,16 +1,15 @@
-## Hi there 👋
+```bash
+$ whoami
+unmskl — computer.science.student
 
-<!--
-**unmskl/unmskl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+$ cat skills.txt
+java · sql · jdbc · mariadb · linux · git
 
-Here are some ideas to get you started:
+$ uptime
+Learning, experimenting and building new things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ contact --all
+→ github.com/unmskl
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=600&color=7C3AED&center=false&vCenter=true&width=435&lines=computer+science+student;learning+java+%26+backend+development;exploring+cybersecurity" alt="status" />
